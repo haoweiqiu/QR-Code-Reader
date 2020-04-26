@@ -57,6 +57,8 @@
           <version>3.8.0</version>
 		  <configuration>
 		  <fork>true</fork>
+		  <!--need to add local jdk path-->
+		  <!--<executable> </executable>-->
 		  </configuration>
         </plugin>
         <plugin>
